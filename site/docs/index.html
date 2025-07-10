@@ -1,0 +1,21 @@
+cat > site/docs/index.html << 'EOF'
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>EOsync Niche Guides</title>
+  <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css"/>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      loadSidebar: true,
+      homepage: 'pages/bestblue-widgets2025/README.md'
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+</body>
+</html>
+EOF

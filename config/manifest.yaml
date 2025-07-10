@@ -1,0 +1,44 @@
+# config/manifest.yaml
+
+# === Azure Autosuggest ===
+azure_autosuggest:
+  key: "<your-azure-autosuggest-key>"
+  endpoint: "https://<your-resource>.cognitiveservices.azure.com"
+
+# === Google Ads ===
+google_ads:
+  developer_token: "<hRcKQ…>"
+  client_id:       "<7490…apps.googleusercontent.com>"
+  client_secret:   "<GOCSPX…>"
+  refresh_token:   "<1//04l3AXF…>"
+  login_customer_id: "3250800856"
+  use_proto_plus:  true
+
+# === Google Custom Search (SERP) ===
+cse:
+  api_key:   "<AIzaSy…>"
+  engine_id: "96ea04cc1dea944a2"
+
+# === Affiliate Networks ===
+affiliate:
+affiliate:
+  amazon_associates:
+    publisher_id: "insightseosyn-20"
+    dashboard_url: "https://affiliate-program.amazon.com/home"
+affiliate:
+  awin:
+    publisher_id: "TBD"
+    dashboard_url: "https://ui.awin.com"
+  cj_affiliate:
+    website_id: "<your-CJ-website-ID>"
+    api_key:    "<CJ-API-key-if-granted>"
+
+# === Other Services ===
+serpapi:
+  api_key: "<if you switch to SerpApi instead of CSE>"
+
+# === AWS (for S3/Deploy) ===
+aws:
+  profile: "default"
+  bucket:  "eosync.io"
+  region:  "us-east-2"

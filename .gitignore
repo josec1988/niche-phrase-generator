@@ -1,0 +1,5 @@
+# API keys & secrets
+config/api_keys.json
+
+# Local Netlify folder
+.netlify

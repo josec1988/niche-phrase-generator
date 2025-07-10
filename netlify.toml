@@ -1,0 +1,4 @@
+[build]
+  # No build command—just publish the static folder
+  command = ""
+  publish = "site/docs"

@@ -1,0 +1,8 @@
+2025-07-06 13:02:12,523 INFO:Loading seeds from ../data/seeds.txt
+2025-07-06 13:02:12,523 INFO:Expanding phrases (prefixes=None, suffixes=None)
+2025-07-06 13:02:12,523 INFO:Writing 3 combos to ../output/combos.csv
+2025-07-06 13:02:12,523 INFO:Done
+2025-07-06 13:03:30,534 INFO:Loading seeds from ../data/seeds.txt
+2025-07-06 13:03:30,534 INFO:Expanding phrases (prefixes=['best', 'cheap'], suffixes=['near me', '2025'])
+2025-07-06 13:03:30,534 INFO:Writing 12 combos to ../output/combos.csv
+2025-07-06 13:03:30,534 INFO:Done
