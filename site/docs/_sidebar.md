@@ -12,4 +12,4 @@
 - [Cheap Solar Chargers 2025](pages/cheapsolar-chargers2025/README.md)
 - [Cheap Solar Chargers Near Me](pages/cheapsolar-chargersnear-me/README.md)
 - [Kits](/pages/kits/index.md)
-  - [Deep Work Desk](/pages/kits/deep-work-desk/README.md)
+  - [Deep Work Desk](/pages/kits/deep-work-desk/)
